@@ -1,6 +1,7 @@
 const express = require("express");
 const dotevn = require("dotenv");
 dotevn.config();
+//my husband is gadidha
 
 const {connectDb} = require("./db/connectDb");
 
